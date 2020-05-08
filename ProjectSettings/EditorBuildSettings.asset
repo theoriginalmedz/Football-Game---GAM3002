@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Act1.unity
+    path: Assets/Scenes/Act1 - until training.unity
     guid: 103db86a028decc479896347d6eef4c5
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
@@ -14,4 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Loading Screen.unity
     guid: 1f5becc25486bc54788eedb425ab6f81
+  - enabled: 1
+    path: Assets/Scenes/UnlimitedGoes.unity
+    guid: a578bee4f2acac240845e47b5d060fc7
+  - enabled: 1
+    path: Assets/Scenes/Act1 - After training - Did the shootout.unity
+    guid: 9cf56c4515480db41b6f19b6a5780f45
+  - enabled: 1
+    path: Assets/Scenes/Act1 - Won.unity
+    guid: cd49fcdf916de2143a41b9be999ada78
+  - enabled: 1
+    path: Assets/Scenes/Act1 - no training.unity
+    guid: 675928318c3f47141b74a5139f04ce0f
   m_configObjects: {}
