@@ -57,13 +57,28 @@ EditorBuildSettings:
     path: Assets/Scenes/Act 2A/Act 2A.unity
     guid: d3f98c3fc399ac0499af0028369e831b
   - enabled: 1
-    path: Assets/Scenes/Act 2B/Act 2B.unity
-    guid: 3387f3fef1e0a5946b670b561cdcd294
-  - enabled: 1
     path: Assets/Scenes/Act 1/Branch 4 - no training - blackeye/Act1 - no training
       - blackeye.unity
     guid: 2489201f284cb484bbb7ca6c618c8c75
   - enabled: 1
     path: Assets/Scenes/Act 1/Branch 4 - no training - blackeye/playShootout4livesBlackeye.unity
     guid: 5a8f140c67cceb546b3e1090aae2ac9f
+  - enabled: 1
+    path: Assets/Scenes/Act 2A/2A after gameplay - late.unity
+    guid: 3c76051965ec30d4dab912297a0d5c1f
+  - enabled: 1
+    path: Assets/Scenes/Act 2A/2A after gameplay - jobless.unity
+    guid: 150634cfcc9e07c44af81994bdc384ae
+  - enabled: 1
+    path: Assets/Scenes/Act 2B/Act 2B.unity
+    guid: 3387f3fef1e0a5946b670b561cdcd294
+  - enabled: 1
+    path: Assets/Scenes/Act 2B/2B - Good.unity
+    guid: 423b3b23e759b8248be409d21d5a7682
+  - enabled: 1
+    path: Assets/Scenes/Act 2B/2B - Bad.unity
+    guid: e99e9634d1d147f4fb049913bf467a4e
+  - enabled: 1
+    path: Assets/Scenes/ACT 3 (END SCREEN)/Act 3.unity
+    guid: a4b9df7d01b457a4f8f1796316ad9b66
   m_configObjects: {}
