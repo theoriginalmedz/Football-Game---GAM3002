@@ -41,9 +41,29 @@ EditorBuildSettings:
       shots.unity
     guid: 3f18de4eb5f55a24aae54da185b8c9f2
   - enabled: 1
+    path: Assets/Scenes/Act 1/Branch 2 - no training - no blackeye/5shotsOnly.unity
+    guid: c6ff346cf90daa8429c7bd18ebb61e67
+  - enabled: 1
+    path: Assets/Scenes/Act 1/Branch 3 - do training - blackeye/UnlimitedGoes - Blackeye.unity
+    guid: b4f3308475dcc644493daeecbf59fe32
+  - enabled: 1
+    path: Assets/Scenes/Act 1/Branch 3 - do training - blackeye/Act1 - After training
+      - Blackeye.unity
+    guid: bf3144e4512ccb74fb827ff6bac56250
+  - enabled: 1
+    path: Assets/Scenes/Act 1/Branch 3 - do training - blackeye/playShootoutBlackeye.unity
+    guid: 1d879414f841ea44190779c4bfec8b91
+  - enabled: 1
     path: Assets/Scenes/Act 2A/Act 2A.unity
     guid: d3f98c3fc399ac0499af0028369e831b
   - enabled: 1
-    path: Assets/Scenes/Act 1/Branch 2 - no training - no blackeye/5shotsOnly.unity
-    guid: c6ff346cf90daa8429c7bd18ebb61e67
+    path: Assets/Scenes/Act 2B/Act 2B.unity
+    guid: 3387f3fef1e0a5946b670b561cdcd294
+  - enabled: 1
+    path: Assets/Scenes/Act 1/Branch 4 - no training - blackeye/Act1 - no training
+      - blackeye.unity
+    guid: 2489201f284cb484bbb7ca6c618c8c75
+  - enabled: 1
+    path: Assets/Scenes/Act 1/Branch 4 - no training - blackeye/playShootout4livesBlackeye.unity
+    guid: 5a8f140c67cceb546b3e1090aae2ac9f
   m_configObjects: {}

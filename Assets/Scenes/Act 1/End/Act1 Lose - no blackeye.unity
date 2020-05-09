@@ -3099,9 +3099,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1497890502}
+  - {fileID: 1497890477}
   selectedCommands:
-  - {fileID: 1497890505}
+  - {fileID: 1497890476}
   variables: []
   description: 
   stepPause: 0
@@ -3129,7 +3129,7 @@ MonoBehaviour:
   indentLevel: 0
   _sceneName:
     stringRef: {fileID: 0}
-    stringVal: Act 2A
+    stringVal: Act 2B
   loadingImage: {fileID: 0}
   sceneNameOLD: 
 --- !u!114 &1497890477
@@ -3383,7 +3383,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 503
   indentLevel: 0
-  storyText: "Matthew: Thanks, coach. Thank you for giving me this opportunity. \r\n"
+  storyText: "Thanks, coach. Thank you for giving me this opportunity. \r\n"
   description: 
   character: {fileID: 76373233}
   portrait: {fileID: 21300000, guid: 19551a19c5fd3f245918967eeba7a386, type: 3}
@@ -3494,8 +3494,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 499
   indentLevel: 0
-  storyText: "Coach: Stop gloating, it's a terrible trait. \r\n\r\n\n\r\n[[Go to Act
-    2B]]\r"
+  storyText: "Stop gloating, it's a terrible trait. \r\n\r\n\n\r\n"
   description: 
   character: {fileID: 1623322371}
   portrait: {fileID: 21300000, guid: f02785e5956475844855b0542c31e793, type: 3}
@@ -3522,7 +3521,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 498
   indentLevel: 0
-  storyText: "Mace: Haha, I told you. There's no winning against Mace Wethersby.\r"
+  storyText: "Haha, I told you. There's no winning against Mace Wethersby.\r"
   description: 
   character: {fileID: 1893505937}
   portrait: {fileID: 21300000, guid: e61457392671d314c8401473c5933c36, type: 3}
@@ -3576,7 +3575,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 496
   indentLevel: 0
-  storyText: "Coach: And it's settled, our winner is Mace!\r\n\r\n"
+  storyText: "And it's settled, our winner is Mace!\r\n\r\n"
   description: 
   character: {fileID: 1623322371}
   portrait: {fileID: 21300000, guid: f02785e5956475844855b0542c31e793, type: 3}

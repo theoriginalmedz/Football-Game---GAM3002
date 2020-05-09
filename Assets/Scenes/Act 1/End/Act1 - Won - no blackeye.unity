@@ -1500,9 +1500,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 529959654}
-  selectedCommands:
-  - {fileID: 529959672}
+  - {fileID: 529959583}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -1851,7 +1850,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 503
   indentLevel: 0
-  storyText: "Matthew: Thanks, coach. Thank you for giving me this opportunity. \r\n"
+  storyText: "Thanks, coach. Thank you for giving me this opportunity. \r\n"
   description: 
   character: {fileID: 134219823}
   portrait: {fileID: 21300000, guid: 19551a19c5fd3f245918967eeba7a386, type: 3}
