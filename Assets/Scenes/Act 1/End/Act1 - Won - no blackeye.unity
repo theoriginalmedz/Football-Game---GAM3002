@@ -1313,7 +1313,7 @@ MonoBehaviour:
     booleanVal: 0
 --- !u!114 &529959585
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1373,8 +1373,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Mace approaches Matthew looking very pissed off.
   description: 
-  character: {fileID: 134219823}
-  portrait: {fileID: 21300000, guid: 19551a19c5fd3f245918967eeba7a386, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1502,7 +1502,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 529959654}
   selectedCommands:
-  - {fileID: 529959658}
+  - {fileID: 529959672}
   variables: []
   description: 
   stepPause: 0
@@ -1926,7 +1926,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 506
   indentLevel: 0
-  storyText: 'Rewards: Defeated Mace, Did the training, won against Mace.'
+  storyText: "Rewards: \n-Defeated Mace \n-Became first Striker."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1953,7 +1953,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 507
   indentLevel: 0
-  storyText: 'Loss: Lost Mace as an ally'
+  storyText: "Losses: \n\n-Lost Mace as an ally in Act 2"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}

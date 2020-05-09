@@ -1705,6 +1705,7 @@ GameObject:
   - component: {fileID: 1584525317}
   - component: {fileID: 1584525316}
   - component: {fileID: 1584525391}
+  - component: {fileID: 1584525392}
   m_Layer: 0
   m_Name: 'Flowchart '
   m_TagString: Untagged
@@ -1728,7 +1729,7 @@ MonoBehaviour:
   indentLevel: 0
   _sceneName:
     stringRef: {fileID: 0}
-    stringVal: Scenario
+    stringVal: 5shotsOnly
   loadingImage: {fileID: 0}
   sceneNameOLD: 
 --- !u!114 &1584525317
@@ -2386,14 +2387,14 @@ MonoBehaviour:
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 21300000, guid: 4828a992bb5fe454c99a9a8bbce81f09, type: 3}
   offset: 0
-  fromPosition: {fileID: 1499451746}
+  fromPosition: {fileID: 0}
   toPosition: {fileID: 706652722}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
   moveDuration: 1
   shiftOffset: {x: 0, y: 0}
-  move: 1
+  move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
 --- !u!114 &1584525341
@@ -2985,6 +2986,7 @@ MonoBehaviour:
   - {fileID: 1584525319}
   - {fileID: 1584525318}
   - {fileID: 1584525317}
+  - {fileID: 1584525392}
   - {fileID: 1584525316}
 --- !u!114 &1584525362
 MonoBehaviour:
@@ -3737,7 +3739,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 1584525361}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 1584525392}
   variables: []
   description: 
   stepPause: 0
@@ -3781,6 +3784,33 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1584525392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1584525315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 488
+  indentLevel: 0
+  storyText: I need to score all 4 shots to win. I can... I will do this!
+  description: 
+  character: {fileID: 324717855}
+  portrait: {fileID: 21300000, guid: 19551a19c5fd3f245918967eeba7a386, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1

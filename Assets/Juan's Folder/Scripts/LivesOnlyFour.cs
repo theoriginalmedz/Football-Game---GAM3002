@@ -68,7 +68,7 @@ public class LivesOnlyFour : MonoBehaviour
     public IEnumerator testThis()
     {
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(6);
     }
 
 }

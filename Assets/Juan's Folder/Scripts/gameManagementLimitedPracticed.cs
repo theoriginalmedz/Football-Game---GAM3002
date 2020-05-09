@@ -24,10 +24,10 @@ public class gameManagementLimitedPracticed : MonoBehaviour
             Panel.SetActive(true);
         }
 
-        if (Score.scorevalue >= 40) //change the score requierment to win
+        if (Score.scorevalue >= 40) //change the score requirement to win
         {
             SceneManager.LoadScene(5); //change the scene
-            SceneManager.UnloadSceneAsync(10); //removes this scene
+            
         }
     }
 }
