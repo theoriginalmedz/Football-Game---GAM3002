@@ -7,7 +7,7 @@ public class UIAppear : MonoBehaviour
 {
     public Text text;  //Add reference to UI Text here via the inspector
     private float timeToAppear = 3f;
-    private float timeWhenDisappear = 3f;
+    private float timeWhenDisappear = 10f;
 
     //Call to enable the text, which also sets the timer
     public void EnableText()

@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Act1 - until training.unity
+    path: Assets/Scenes/Act 1/Beginning/Act1 - until training.unity
     guid: 103db86a028decc479896347d6eef4c5
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
@@ -15,15 +15,32 @@ EditorBuildSettings:
     path: Assets/Scenes/Loading Screen.unity
     guid: 1f5becc25486bc54788eedb425ab6f81
   - enabled: 1
-    path: Assets/Scenes/UnlimitedGoes.unity
+    path: Assets/Scenes/Act 1/Branch 1 - Do training - no blackeye/UnlimitedGoes.unity
     guid: a578bee4f2acac240845e47b5d060fc7
   - enabled: 1
-    path: Assets/Scenes/Act1 - After training - Did the shootout.unity
+    path: Assets/Scenes/Act 1/Branch 1 - Do training - no blackeye/Act1 - After training
+      - Did the shootout.unity
     guid: 9cf56c4515480db41b6f19b6a5780f45
   - enabled: 1
-    path: Assets/Scenes/Act1 - Won.unity
+    path: Assets/Scenes/Act 1/End/Act1 - Won - no blackeye.unity
     guid: cd49fcdf916de2143a41b9be999ada78
   - enabled: 1
-    path: Assets/Scenes/Act1 - no training.unity
+    path: Assets/Scenes/Act 1/End/Act1 Lose - no blackeye.unity
+    guid: 96a5015a4eea1f34691a5426ec32cd86
+  - enabled: 1
+    path: Assets/Scenes/Act 1/Branch 2 - no training - no blackeye/Act1 - no training.unity
     guid: 675928318c3f47141b74a5139f04ce0f
+  - enabled: 1
+    path: Assets/Scenes/Act 1/End/Act 1 - Won - Blackeye.unity
+    guid: 32ae7527d46853546adc53f3dbf4203a
+  - enabled: 1
+    path: Assets/Scenes/Act 1/End/Act 1 - Lose - blackeye.unity
+    guid: 99430c766f286b34b9ac77574f9c34ca
+  - enabled: 1
+    path: Assets/Scenes/Act 1/Branch 1 - Do training - no blackeye/Limited goes 8
+      shots.unity
+    guid: 3f18de4eb5f55a24aae54da185b8c9f2
+  - enabled: 1
+    path: Assets/Scenes/Act 2A/Act 2A.unity
+    guid: d3f98c3fc399ac0499af0028369e831b
   m_configObjects: {}

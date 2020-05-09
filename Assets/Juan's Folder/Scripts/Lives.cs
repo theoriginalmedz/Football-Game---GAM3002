@@ -9,6 +9,7 @@ public class Lives : MonoBehaviour
     public GameObject ball1, ball2, ball3, ball4, ball5, balls6, balls7, balls8;
     public static int health;
     public GameObject BALL;
+
     void Start()
     {
         health = 8;
@@ -129,7 +130,7 @@ public class Lives : MonoBehaviour
     public IEnumerator test()
     {
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(6);
     }
 
 }

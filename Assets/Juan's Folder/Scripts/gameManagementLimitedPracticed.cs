@@ -26,7 +26,8 @@ public class gameManagementLimitedPracticed : MonoBehaviour
 
         if (Score.scorevalue >= 40) //change the score requierment to win
         {
-            SceneManager.LoadScene(1); //change the scene
+            SceneManager.LoadScene(5); //change the scene
+            SceneManager.UnloadSceneAsync(10); //removes this scene
         }
     }
 }
