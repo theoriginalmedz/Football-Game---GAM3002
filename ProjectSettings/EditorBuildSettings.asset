@@ -81,4 +81,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ACT 3 (END SCREEN)/Act 3.unity
     guid: a4b9df7d01b457a4f8f1796316ad9b66
+  - enabled: 1
+    path: Assets/Juan's Folder/Scripts/KeeperJump/Goalkeeper - 6 times - no sub.unity
+    guid: 858a4897ff930ae4d9223b376276965b
+  - enabled: 1
+    path: Assets/Juan's Folder/Scripts/KeeperJump/Goalkeeper Only 3 - sub.unity
+    guid: 1d38f9754db60ed499a7edb1bb197fd5
+  - enabled: 1
+    path: Assets/Juan's Folder/Scripts/KeeperJump/goalkeeper2B3Lives.unity
+    guid: f4e6ab969b77db642838cd04c89efbda
+  - enabled: 1
+    path: Assets/Juan's Folder/Scripts/KeeperJump/goalkeeper6lives2b.unity
+    guid: 98e9b8ab2d9332b468a6c8949981539f
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9b79254e958475c4d99ebcb72dcb9212
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: b0a6a2b1b8acb6a4c89fd9aee9fa46f6
+  - enabled: 1
+    path: Assets/Scenes/quitToWindows.unity
+    guid: 0b51a50b7bc233c408ebc419dbf8c824
   m_configObjects: {}
