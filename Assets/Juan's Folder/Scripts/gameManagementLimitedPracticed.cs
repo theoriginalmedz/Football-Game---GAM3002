@@ -26,7 +26,7 @@ public class gameManagementLimitedPracticed : MonoBehaviour
 
         if (Score.scorevalue >= 40) //change the score requirement to win
         {
-            SceneManager.LoadScene(5); //change the scene
+            SceneManager.LoadScene(6); //change the scene
             
         }
     }

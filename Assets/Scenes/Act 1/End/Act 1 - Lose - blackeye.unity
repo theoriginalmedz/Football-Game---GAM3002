@@ -3045,6 +3045,7 @@ GameObject:
   - component: {fileID: 955028203}
   - component: {fileID: 955028233}
   - component: {fileID: 955028234}
+  - component: {fileID: 955028235}
   m_Layer: 0
   m_Name: Flowchart - lost - blackeye
   m_TagString: Untagged
@@ -3144,6 +3145,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 955028231}
+  - {fileID: 955028235}
   - {fileID: 955028230}
   - {fileID: 955028229}
   - {fileID: 955028228}
@@ -3958,6 +3960,24 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!114 &955028235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 955028201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 521
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: 31f8b940f79ec76499a9a26b17f77396, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
 --- !u!1 &959269456
 GameObject:
   m_ObjectHideFlags: 0

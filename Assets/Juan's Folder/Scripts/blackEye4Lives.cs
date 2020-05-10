@@ -67,7 +67,7 @@ public class blackEye4Lives : MonoBehaviour
     public IEnumerator testThis()
     {
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(9);
+        SceneManager.LoadScene(10);
     }
 
 }

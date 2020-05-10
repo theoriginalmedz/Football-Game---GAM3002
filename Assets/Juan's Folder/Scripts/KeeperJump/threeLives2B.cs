@@ -62,7 +62,7 @@ public class threeLives2B : MonoBehaviour
     public IEnumerator test()
     {
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(21);
+        SceneManager.LoadScene(22);
     }
 
 }

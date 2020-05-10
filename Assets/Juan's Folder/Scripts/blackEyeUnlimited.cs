@@ -8,12 +8,12 @@ public class blackEyeUnlimited : MonoBehaviour
 
     public void RestarGame()
     {
-        SceneManager.LoadScene(12); //make this scene the scene that the unlimited game is on
+        SceneManager.LoadScene(13); //make this scene the scene that the unlimited game is on
     }
 
     public void goHome()
     {
-        SceneManager.LoadScene(13); //make this scene the next scene you go to when you want to go home
+        SceneManager.LoadScene(14); //make this scene the next scene you go to when you want to go home
 
     }
 }

@@ -26,7 +26,7 @@ public class gameManagementBlEyeNoTra : MonoBehaviour
 
         if (Score.scorevalue >= 40) //change the score requirement to win
         {
-            SceneManager.LoadScene(8); //change the scene
+            SceneManager.LoadScene(9); //change the scene
 
         }
     }

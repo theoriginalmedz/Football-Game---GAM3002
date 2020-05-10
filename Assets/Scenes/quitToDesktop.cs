@@ -14,6 +14,6 @@ public class quitToDesktop : MonoBehaviour
 
     public void backToMain()
     {
-        SceneManager.LoadScene(28);
+        SceneManager.LoadScene(0);
     }
 }

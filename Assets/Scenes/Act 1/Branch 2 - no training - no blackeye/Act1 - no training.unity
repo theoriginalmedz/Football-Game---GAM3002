@@ -4077,6 +4077,8 @@ GameObject:
   - component: {fileID: 1584525394}
   - component: {fileID: 1584525396}
   - component: {fileID: 1584525397}
+  - component: {fileID: 1584525399}
+  - component: {fileID: 1584525398}
   m_Layer: 0
   m_Name: 'Flowchart '
   m_TagString: Untagged
@@ -6031,6 +6033,8 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1584525393}
+  - {fileID: 1584525399}
+  - {fileID: 1584525398}
   - {fileID: 1584525373}
   - {fileID: 1584525385}
   - {fileID: 1584525384}
@@ -6123,8 +6127,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1584525361}
-  selectedCommands: []
+  - {fileID: 1584525386}
+  selectedCommands:
+  - {fileID: 1584525393}
   variables: []
   description: 
   stepPause: 0
@@ -6314,6 +6319,38 @@ MonoBehaviour:
   customDescription: 
   fireEvent: 1
   resumeOnLoad: 1
+--- !u!114 &1584525398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1584525315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 500
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: 31f8b940f79ec76499a9a26b17f77396, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
+--- !u!114 &1584525399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1584525315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b359b09a7ba2e4af981f07c07f8af85a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 499
+  indentLevel: 0
 --- !u!1 &1590068369
 GameObject:
   m_ObjectHideFlags: 0

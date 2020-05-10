@@ -104,7 +104,7 @@ public class sixLives2A : MonoBehaviour
     public IEnumerator test()
     {
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(19);
+        SceneManager.LoadScene(20);
     }
 
 }

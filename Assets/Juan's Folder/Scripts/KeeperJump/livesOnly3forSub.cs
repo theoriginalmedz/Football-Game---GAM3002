@@ -62,7 +62,7 @@ public class livesOnly3forSub : MonoBehaviour
     public IEnumerator test()
     {
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(18);
+        SceneManager.LoadScene(19);
     }
 
 }

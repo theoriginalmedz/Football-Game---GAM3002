@@ -1466,6 +1466,7 @@ GameObject:
   - component: {fileID: 822836769}
   - component: {fileID: 822836770}
   - component: {fileID: 822836771}
+  - component: {fileID: 822836413}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1498,6 +1499,35 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
+--- !u!114 &822836413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 822836411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 689
+  indentLevel: 0
+  storyText: 'Theme by: Soulker - [FREE] Drill Type Beat - "North"
+
+    (Free for non-profit use)'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!114 &822836415
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10833,6 +10863,7 @@ MonoBehaviour:
   - {fileID: 822836768}
   - {fileID: 822836769}
   - {fileID: 822836770}
+  - {fileID: 822836413}
   - {fileID: 822836412}
 --- !u!114 &822836751
 MonoBehaviour:
@@ -10858,8 +10889,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 822836750}
+  selectedCommands:
+  - {fileID: 822836413}
   variables: []
   description: 
   stepPause: 0

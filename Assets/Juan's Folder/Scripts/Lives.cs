@@ -130,7 +130,7 @@ public class Lives : MonoBehaviour
     public IEnumerator test()
     {
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(6);
+        SceneManager.LoadScene(7);
     }
 
 }

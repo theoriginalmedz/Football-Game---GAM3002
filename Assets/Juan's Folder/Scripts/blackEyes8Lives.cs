@@ -129,7 +129,7 @@ public class blackEyes8Lives : MonoBehaviour
     public IEnumerator test()
     {
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(9);
+        SceneManager.LoadScene(10);
     }
 
 }
