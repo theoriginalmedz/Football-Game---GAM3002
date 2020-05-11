@@ -1326,8 +1326,8 @@ MonoBehaviour:
   itemId: 2
   indentLevel: 0
   storyText: 'We follow the story of Matthew, a young teenager from North London who
-    is trying to become a professional footballer. Little does he know that his journey
-    is one of great trials and tribulations. '
+    is trying to become a professional Football Player. Little does he know that his
+    journey is one of great trials and tribulations. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1458,11 +1458,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -63.479885, y: -463.37744}
+  scrollPos: {x: 190.6409, y: 111.55441}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 382
-  zoom: 0.7299998
+  zoom: 0.6099999
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1470,9 +1470,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 327395482}
+  - {fileID: 327395274}
   selectedCommands:
-  - {fileID: 327395496}
+  - {fileID: 327395281}
   variables: []
   description: 
   stepPause: 0
@@ -1513,7 +1513,7 @@ MonoBehaviour:
   itemId: 5
   indentLevel: 0
   storyText: 'Matthew states that one day he will get out of this "nuthouse" and will
-    use his love for football to get out of the neighbourhood. '
+    use his love for Football to get out of the neighbourhood. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1540,8 +1540,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 6
   indentLevel: 0
-  storyText: 'As he is leaving his estate, he sees some teens taking drugs and calling
-    Matthew''s name, so he can play Football with them. '
+  storyText: 'As he is leaving his estate, he sees some teenagers he knows taking
+    drugs and calling Matthew''s name, so he can play Football with them. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1623,7 +1623,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 10
   indentLevel: 0
-  storyText: 'Matthew doesn''t reply and carries on going to his friends house. '
+  storyText: 'Matthew doesn''t reply and carries on going to his friend''s house. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1650,7 +1650,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 9
   indentLevel: 0
-  storyText: 'Matthew leaves the house and the goes to stay with one of his friend
+  storyText: 'Matthew leaves the house and the goes to stay with one of his friends
     for the night. '
   description: 
   character: {fileID: 0}
@@ -2203,7 +2203,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 16.586624
     y: 115.04649
-    width: 332.7398
+    width: 293.93445
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2273,7 +2273,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 250.44998
     y: 59.98262
-    width: 216.5754
+    width: 195.57379
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2312,7 +2312,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -140.08209
     y: 63.229362
-    width: 259.31512
+    width: 229.67216
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3838,7 +3838,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 278.96902
     y: 305.88412
-    width: 162.87674
+    width: 149.67215
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3901,7 +3901,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -176.1944
     y: 369.2596
-    width: 145.3425
+    width: 132.62296
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3976,7 +3976,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 21.129837
     y: 545.70844
-    width: 173.83566
+    width: 157.541
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4018,7 +4018,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -184.03821
     y: 548.70416
-    width: 136.57538
+    width: 124.75411
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4058,7 +4058,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 299.59595
     y: 414.69067
-    width: 196.84937
+    width: 181.14757
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5388,7 +5388,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -35.1704
     y: 455.03244
-    width: 134.38359
+    width: 124.75411
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6541,7 +6541,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -91.905975
     y: 668.8383
-    width: 181.50688
+    width: 166.72133
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6569,7 +6569,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -264.29163
     y: 629.05664
-    width: 163.97263
+    width: 148.36067
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7328,7 +7328,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 512.37
     y: 514.04425
-    width: 263.6987
+    width: 237.54102
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7369,7 +7369,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 252.89424
     y: 523.1561
-    width: 227.5343
+    width: 206.0656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8413,7 +8413,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 539.38
     y: 641.31085
-    width: 248.35622
+    width: 227.04921
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8442,7 +8442,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 206.03539
     y: 639.53644
-    width: 230.82198
+    width: 208.68855
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8674,7 +8674,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 348.43008
     y: 731.2859
-    width: 170.54797
+    width: 157.541
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10055,7 +10055,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -260.20822
     y: 826.2788
-    width: 120.13701
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10545,7 +10545,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -376.175
     y: 941.4056
-    width: 272.46582
+    width: 242.78691
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10722,7 +10722,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 532.98724
     y: 953.16693
-    width: 169.45209
+    width: 156.22952
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10755,7 +10755,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 213.94879
     y: 966.78955
-    width: 265.89047
+    width: 238.8525
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11337,7 +11337,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 512.18317
     y: 869.8447
-    width: 153.01373
+    width: 140.49182
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11384,7 +11384,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 272.97107
     y: 818.1905
-    width: 183.69867
+    width: 166.72133
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
