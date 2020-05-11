@@ -10445,8 +10445,7 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 266097318}
+  selectedBlocks: []
   selectedCommands: []
   variables: []
   description: 
@@ -10795,6 +10794,7 @@ GameObject:
   m_Component:
   - component: {fileID: 497368250}
   - component: {fileID: 497368249}
+  - component: {fileID: 497368251}
   m_Layer: 0
   m_Name: Top Logo v2
   m_TagString: Untagged
@@ -10864,6 +10864,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &497368251
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 497368248}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c01002bdb128e544b8ccb3b84515f8bd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &532703509
 GameObject:
   m_ObjectHideFlags: 0
