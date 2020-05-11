@@ -1465,7 +1465,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 327395274}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 327395283}
   variables: []
   description: 
   stepPause: 0
@@ -1671,7 +1672,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 8
   indentLevel: 0
-  storyText: Make friends or Rivals, make it to the top or tumble Matthew''s dreams,
+  storyText: Make friends or Rivals, make it to the top or tumble Matthew's dreams,
     it is all your choice.
   description: 
   character: {fileID: 0}
