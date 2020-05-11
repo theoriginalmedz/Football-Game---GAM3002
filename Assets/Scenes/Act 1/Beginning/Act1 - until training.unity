@@ -1243,6 +1243,12 @@ GameObject:
   - component: {fileID: 327395694}
   - component: {fileID: 327395695}
   - component: {fileID: 327395696}
+  - component: {fileID: 327395697}
+  - component: {fileID: 327395698}
+  - component: {fileID: 327395699}
+  - component: {fileID: 327395700}
+  - component: {fileID: 327395701}
+  - component: {fileID: 327395702}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1452,11 +1458,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 335.96524, y: 122.19568}
+  scrollPos: {x: -63.479885, y: -463.37744}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 382
-  zoom: 0.4
+  zoom: 0.7299998
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1464,9 +1470,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 327395274}
+  - {fileID: 327395482}
   selectedCommands:
-  - {fileID: 327395283}
+  - {fileID: 327395496}
   variables: []
   description: 
   stepPause: 0
@@ -2197,7 +2203,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 16.586624
     y: 115.04649
-    width: 336
+    width: 332.7398
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2267,7 +2273,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 250.44998
     y: 59.98262
-    width: 226
+    width: 216.5754
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2306,7 +2312,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -140.08209
     y: 63.229362
-    width: 264
+    width: 259.31512
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2748,7 +2754,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 113.31956
     y: 204.47449
-    width: 122
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3832,7 +3838,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 278.96902
     y: 305.88412
-    width: 168
+    width: 162.87674
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3895,7 +3901,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -176.1944
     y: 369.2596
-    width: 150
+    width: 145.3425
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3970,7 +3976,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 21.129837
     y: 545.70844
-    width: 178
+    width: 173.83566
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3982,11 +3988,14 @@ MonoBehaviour:
   - {fileID: 327395662}
   - {fileID: 327395465}
   - {fileID: 327395464}
+  - {fileID: 327395701}
+  - {fileID: 327395702}
   - {fileID: 327395459}
   - {fileID: 327395470}
   - {fileID: 327395469}
   - {fileID: 327395462}
   - {fileID: 327395467}
+  - {fileID: 327395700}
   - {fileID: 327395463}
   - {fileID: 327395473}
   - {fileID: 327395466}
@@ -4009,7 +4018,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -184.03821
     y: 548.70416
-    width: 140
+    width: 136.57538
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4025,6 +4034,9 @@ MonoBehaviour:
   - {fileID: 327395448}
   - {fileID: 327395451}
   - {fileID: 327395450}
+  - {fileID: 327395697}
+  - {fileID: 327395698}
+  - {fileID: 327395699}
   - {fileID: 327395452}
   - {fileID: 327395472}
   - {fileID: 327395449}
@@ -4046,7 +4058,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 299.59595
     y: 414.69067
-    width: 206
+    width: 196.84937
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5376,7 +5388,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -35.1704
     y: 455.03244
-    width: 138
+    width: 134.38359
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6446,10 +6458,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 197
   indentLevel: 0
-  storyText: Hi, i'm Jamal Khan and I'm the coach for the Theodore Park Youth F.C.
-    We have heard a lot about you from your previous coach. We were hoping you could
-    come in for a trial tomorrow at 9am and we can see if you're a fit for this team
-    and what position we can give you.
+  storyText: 'Hi, i''m Jamal Khan and I''m the coach for the Theodore Park Youth F.C. '
   description: 
   character: {fileID: 1568645452}
   portrait: {fileID: 21300000, guid: 425c0fa23d86cc343a7ede07a019ae0f, type: 3}
@@ -6532,7 +6541,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -91.905975
     y: 668.8383
-    width: 194
+    width: 181.50688
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6560,7 +6569,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -264.29163
     y: 629.05664
-    width: 168
+    width: 163.97263
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6824,9 +6833,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 209
   indentLevel: 0
-  storyText: Hi, I was hoping to speak to Matthew Atkins. my name is Jamal Khan and
-    I'm the coach for the Theodore Park Youth F.C. We have heard a lot about you from
-    your previous coach.
+  storyText: 'Hi, I was hoping to speak to Matthew Atkins. my name is Jamal Khan and '
   description: 
   character: {fileID: 1568645452}
   portrait: {fileID: 21300000, guid: 425c0fa23d86cc343a7ede07a019ae0f, type: 3}
@@ -6907,9 +6914,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 215
   indentLevel: 0
-  storyText: "Hi Matthew, I hope you heard the rest of my call. We were hoping you
-    could come in for a trial tomorrow at 9am and we can see if you're a fit for this
-    team and what position we can give you.\r\n"
+  storyText: Hi Matthew, I hope you heard the rest of my call. We were hoping you
+    could come in for a trial tomorrow at 9am
   description: 
   character: {fileID: 1568645452}
   portrait: {fileID: 21300000, guid: 425c0fa23d86cc343a7ede07a019ae0f, type: 3}
@@ -7322,7 +7328,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 512.37
     y: 514.04425
-    width: 274
+    width: 263.6987
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7363,7 +7369,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 252.89424
     y: 523.1561
-    width: 236
+    width: 227.5343
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8407,7 +8413,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 539.38
     y: 641.31085
-    width: 266
+    width: 248.35622
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8436,7 +8442,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 206.03539
     y: 639.53644
-    width: 240
+    width: 230.82198
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8668,7 +8674,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 348.43008
     y: 731.2859
-    width: 182
+    width: 170.54797
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10049,7 +10055,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -260.20822
     y: 826.2788
-    width: 126
+    width: 120.13701
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10539,7 +10545,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -376.175
     y: 941.4056
-    width: 278
+    width: 272.46582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10716,7 +10722,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 532.98724
     y: 953.16693
-    width: 178
+    width: 169.45209
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10749,7 +10755,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 213.94879
     y: 966.78955
-    width: 274
+    width: 265.89047
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11331,7 +11337,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 512.18317
     y: 869.8447
-    width: 162
+    width: 153.01373
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11378,7 +11384,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 272.97107
     y: 818.1905
-    width: 194
+    width: 183.69867
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12919,6 +12925,170 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 496
   indentLevel: 0
+--- !u!114 &327395697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327395268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 497
+  indentLevel: 0
+  storyText: 'We have heard a lot about you from your previous coach. '
+  description: 
+  character: {fileID: 1568645452}
+  portrait: {fileID: 21300000, guid: 425c0fa23d86cc343a7ede07a019ae0f, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &327395698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327395268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 498
+  indentLevel: 0
+  storyText: We were hoping you could come in for a trial tomorrow at 9am.
+  description: 
+  character: {fileID: 1568645452}
+  portrait: {fileID: 21300000, guid: 425c0fa23d86cc343a7ede07a019ae0f, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &327395699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327395268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 499
+  indentLevel: 0
+  storyText: We can see if you're a fit for this team and what position we can give
+    you.
+  description: 
+  character: {fileID: 1568645452}
+  portrait: {fileID: 21300000, guid: 425c0fa23d86cc343a7ede07a019ae0f, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &327395700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327395268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 500
+  indentLevel: 0
+  storyText: " and we can see if you're a fit for this team and what position we can
+    give you.\r\n"
+  description: 
+  character: {fileID: 1568645452}
+  portrait: {fileID: 21300000, guid: 425c0fa23d86cc343a7ede07a019ae0f, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &327395701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327395268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 501
+  indentLevel: 0
+  storyText: 'I''m the coach for the Theodore Park Youth F.C. '
+  description: 
+  character: {fileID: 1568645452}
+  portrait: {fileID: 21300000, guid: 425c0fa23d86cc343a7ede07a019ae0f, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &327395702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327395268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 502
+  indentLevel: 0
+  storyText: We have heard a lot about you from your previous coach.
+  description: 
+  character: {fileID: 1568645452}
+  portrait: {fileID: 21300000, guid: 425c0fa23d86cc343a7ede07a019ae0f, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &334381762
 GameObject:
   m_ObjectHideFlags: 0

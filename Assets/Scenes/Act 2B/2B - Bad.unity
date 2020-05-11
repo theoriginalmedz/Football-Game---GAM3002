@@ -2634,7 +2634,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 656
   indentLevel: 0
-  storyText: on the way home, Matthew starts to panick incase Mace is up to something.
+  storyText: On the way home, Matthew starts to panick incase Mace is up to something.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -12346,8 +12346,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 460414804}
+  selectedCommands:
+  - {fileID: 460414458}
   variables: []
   description: 
   stepPause: 0

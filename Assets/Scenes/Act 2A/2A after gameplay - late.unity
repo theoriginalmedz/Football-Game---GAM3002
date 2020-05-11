@@ -1275,7 +1275,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 610
   indentLevel: 0
-  storyText: Matthew arrives him. Tired and unappreciated... he has a hard decision
+  storyText: Matthew arrives home. Tired and unappreciated... he has a hard decision
     to make.
   description: 
   character: {fileID: 0}
@@ -11797,7 +11797,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 34885351}
   selectedCommands: []
   variables: []
   description: 

@@ -4811,7 +4811,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 656
   indentLevel: 0
-  storyText: on the way home, Matthew starts to panick.
+  storyText: On the way home, Matthew starts to panick.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14780,8 +14780,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1564670688}
-  selectedCommands: []
+  - {fileID: 1564671036}
+  selectedCommands:
+  - {fileID: 1564670682}
   variables: []
   description: 
   stepPause: 0

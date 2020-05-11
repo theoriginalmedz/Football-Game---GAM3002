@@ -2306,7 +2306,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 610
   indentLevel: 0
-  storyText: Matthew arrives him. Tired and appreciated... he knows what he has to
+  storyText: Matthew arrives home. Tired and appreciated... he knows what he has to
     do.
   description: 
   character: {fileID: 0}
@@ -12249,8 +12249,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 417340934}
+  selectedCommands:
+  - {fileID: 417340932}
   variables: []
   description: 
   stepPause: 0
