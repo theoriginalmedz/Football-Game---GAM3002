@@ -13845,7 +13845,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 3
   indentLevel: 0
-  storyText: 'Chapter 2 starts a few months later and Matthew has now become a success '
+  storyText: 'Act 2 starts a few months later and Matthew has now become a success '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14001,9 +14001,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 156996132}
+  - {fileID: 156996524}
   selectedCommands:
-  - {fileID: 156996143}
+  - {fileID: 156996520}
   variables: []
   description: 
   stepPause: 0
