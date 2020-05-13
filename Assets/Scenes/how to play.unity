@@ -1685,8 +1685,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 675
   indentLevel: 0
-  storyText: Left mouse click or space bar to go during dialogue. Two clicks will
-    skip the dialogue's writing.
+  storyText: Left mouse click/tap to advance dialogue. Two clicks/taps will skip the
+    dialogue's writing.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1794,8 +1794,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 682
   indentLevel: 0
-  storyText: During these scenarios, you hold the Left mouse click and flick the ball
-    towards the intended target.
+  storyText: During these scenarios, you hold the Left mouse click or hold the ball
+    with your finger and drag the ball towards the intended target.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11186,8 +11186,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 791463946}
-  selectedCommands: []
+  - {fileID: 791463947}
+  selectedCommands:
+  - {fileID: 791463608}
   variables: []
   description: 
   stepPause: 0
